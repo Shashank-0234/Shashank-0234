@@ -1,6 +1,6 @@
-sudo systemctl status cassandraaa
+sudo systemctl status cassandra
 
-sudo systemctl stop cassandraaa
+sudo systemctl stop cassandra
 
 sudo systemctl restart cassandra
 
